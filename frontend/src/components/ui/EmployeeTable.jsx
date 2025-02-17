@@ -9,7 +9,7 @@ const EmployeeTable = () => {
               <Table.Root size="md" variant="outline">
                 <Table.Header>
                   <Table.Row>
-                    <Table.ColumnHeader>ID</Table.ColumnHeader>
+                    <Table.ColumnHeader>Id</Table.ColumnHeader>
                     <Table.ColumnHeader>Name</Table.ColumnHeader>
                     <Table.ColumnHeader>Email</Table.ColumnHeader>
                     <Table.ColumnHeader>Age</Table.ColumnHeader>
